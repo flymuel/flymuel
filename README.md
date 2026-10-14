@@ -9,6 +9,8 @@ I also making some various genre of music.
 
 ## I'm currently learning
 [![JavaScript](https://img.shields.io/badge/javascript-%23323300.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
+[![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+(https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
