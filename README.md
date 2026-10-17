@@ -17,7 +17,7 @@ I also making some various genre of music.
 List of my project
 - [Romantic Webapps](https://flymuel.my.id/surat-untukmu)
 - [Music Company Website](https://synxplay.web.id)
-- Portofolio Website => WIP
+- [Portofolio Website](https://flymuel.my.id/)
 
 ## You can contact me in here
 
